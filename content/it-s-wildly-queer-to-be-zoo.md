@@ -5,7 +5,7 @@ description = ""
 image = "/images/featured-post/post-5.jpg"
 tags = []
 title = "It's wildly queer to be zoo!"
-type = "featured"
+type = "post"
 
 +++
 Welcome to zoo.lgbt
