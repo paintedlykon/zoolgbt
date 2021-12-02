@@ -8,3 +8,4 @@ title = "It's wildly queer to be zoo!"
 type = "featured"
 
 +++
+Welcome to zoo.lgbt
