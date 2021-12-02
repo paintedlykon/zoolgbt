@@ -2,7 +2,7 @@
 categories = ["zoopride"]
 date = 2021-12-01T22:00:00Z
 description = ""
-image = "/images/img_1708.png"
+image = "/images/featured-post/post-3.jpg"
 tags = []
 title = "10 tips for upcoming zoopride"
 type = "featured"
