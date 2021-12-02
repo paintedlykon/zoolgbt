@@ -2,7 +2,7 @@
 categories = ["Philosophy"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-image = "/images/d1028_86_396_1200.jpg"
+image = "/images/featured-post/post-1.jpg"
 tags = ["Philosophy", "Photos"]
 title = "Games to play with non-human friends & companions this summer!"
 type = "featured"
