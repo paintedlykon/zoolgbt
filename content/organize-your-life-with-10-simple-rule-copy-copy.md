@@ -2,7 +2,7 @@
 categories = ["Philosophy"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-image = "/images/friendshipcollar_matching_dog_collar_bracelet_03.jpg"
+image = "/images/featured-post/post-3.jpg"
 tags = ["Philosophy", "Photos"]
 title = "Top Zoo fashion accessories you can't miss this season!"
 type = "featured"
