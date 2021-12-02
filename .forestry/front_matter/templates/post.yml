@@ -27,4 +27,5 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/10-tips-for-upcoming-zoopride.md
 - content/it-s-wildly-queer-to-be-zoo.md
