@@ -9,7 +9,7 @@ sections:
   label: Error pages
   create: documents
   match: "*.html"
-  new_doc_ext: ".html"
+  new_doc_ext: html
   templates:
   - error-page
 - type: directory
