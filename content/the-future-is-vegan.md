@@ -2,7 +2,7 @@
 categories = []
 date = 2022-01-29T22:00:00Z
 description = ""
-image = "/images/masonary-post/post-4.jpg"
+image = "/images/boar.jpg"
 tags = []
 title = "The Future is Vegan "
 type = "post"
