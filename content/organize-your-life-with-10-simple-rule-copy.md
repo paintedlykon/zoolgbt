@@ -1,8 +1,8 @@
 +++
-categories = ["Philosophy"]
+categories = ["Featured"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-image = "/images/featured-post/post-5.jpg"
+image = "/images/dogpet.jpg"
 tags = ["Philosophy", "Photos"]
 title = "Happy Healthy Zooey: learn how!"
 type = "featured"
