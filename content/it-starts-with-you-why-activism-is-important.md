@@ -2,7 +2,7 @@
 categories = []
 date = 2022-01-11T22:00:00Z
 description = ""
-image = "/images/masonary-post/post-7.jpg"
+image = "/images/masonary-post/post-4.jpg"
 tags = []
 title = "It starts with you: why activism is important"
 type = "post"
