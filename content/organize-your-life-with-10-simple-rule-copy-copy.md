@@ -4,7 +4,7 @@ date = 2019-05-14T08:46:10Z
 description = "This is meta description"
 image = "/images/featured-post/post-3.jpg"
 tags = ["Philosophy", "Photos"]
-title = "Top Zoo fashion accessories you can't miss this season!"
+title = "Zoosexuality & safety: our 101 guide"
 type = "featured"
 
 +++
