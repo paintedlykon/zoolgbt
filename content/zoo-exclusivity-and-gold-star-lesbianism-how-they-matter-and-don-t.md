@@ -2,7 +2,7 @@
 categories = []
 date = 2022-01-29T22:00:00Z
 description = ""
-image = "/images/masonary-post/post-12.jpg"
+image = "/images/walkies.jpg"
 tags = []
 title = "Zoo-Exclusivity and Gold-Star Lesbianism: How They Matter (And Don't) "
 type = "post"
