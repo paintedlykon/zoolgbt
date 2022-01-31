@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-29T22:00:00Z
 description = ""
-draft = true
 image = "/images/masonary-post/post-2.jpg"
 tags = []
 title = "Zoosexuality: should it be considered acceptable? "
