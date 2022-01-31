@@ -2,7 +2,7 @@
 categories = []
 date = 2022-01-29T22:00:00Z
 description = ""
-image = "/images/masonary-post/post-12.jpg"
+image = "/images/sunset.jpg"
 tags = []
 title = "Patterns of acceptance"
 type = "post"
