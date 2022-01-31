@@ -2,7 +2,7 @@
 categories = []
 date = 2022-01-29T22:00:00Z
 description = ""
-image = "/images/masonary-post/post-4.jpg"
+image = "/images/horsehug.jpg"
 tags = []
 title = "Consent and Courtship in the Court of Cretins"
 type = "post"
