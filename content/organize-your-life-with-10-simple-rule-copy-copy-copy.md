@@ -2,7 +2,7 @@
 categories = ["Philosophy"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-image = "/images/featured-post/post-1.jpg"
+image = "/images/petloss.png"
 tags = ["Philosophy", "Photos"]
 title = "Our mission and goals at ZooMagazine!"
 type = "featured"
