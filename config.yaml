@@ -72,6 +72,12 @@ menu:
   - name: About
     URL: about
     weight: "2"
-  - name: Contact
+  - name: Resources
     URL: contact
-    weight: "3
+    weight: "3"
+  - name: Collaborate
+    URL: contact
+    weight: "4"
+   - name: Contact
+    URL: contact
+    weight: "5"
