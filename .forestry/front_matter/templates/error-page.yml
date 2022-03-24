@@ -2,5 +2,3 @@
 label: Error page
 hide_body: false
 fields: []
-pages:
-- content/404.html
