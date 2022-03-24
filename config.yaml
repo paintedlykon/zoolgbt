@@ -1,7 +1,7 @@
 ---
 baseURL: "/"
 languageCode: en-us
-title: Zoo.LGBT - Zoosexuality online information, news & articles!
+title: zoo.lgbt
 module:
   imports:
   - path: github.com/themefisher/parsa-hugo
@@ -42,19 +42,18 @@ params:
   logo: images/logo.png
   home: Home
   layout: "1"
-  description: Zoo.lgbt is the first online magazine about Zoosexuality! All our content is PG-13 and you'll find information, news, articles and more about zoosexuality! 
+  description: zoolgbtdescription 
   preloader: true
   search: true
   author: zoo.lgbt
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in somewhere. Focusing across branding
-    and identity, digital and print.
   mobile: "+90 000 333 22"
   email: hello@zoo.lgbt
   address: 6 rip carl Avenue CA 90733
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Creative Commons 2022 (BY - SA) - zoo.lgbt
+  copyright: Creative Commons 2022 zoo.lgbt
   instafeed:
     enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
@@ -72,12 +71,6 @@ menu:
   - name: About
     URL: about
     weight: "2"
-  - name: Resources
+  - name: Contact
     URL: contact
     weight: "3"
-  - name: Collaborate
-    URL: contact
-    weight: "4"
-   - name: Contact
-    URL: contact
-    weight: "5"
