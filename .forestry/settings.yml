@@ -5,6 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/collaborate
+  label: Collaborate
+  create: none
+  match: "*"
+- type: directory
+  path: content/resources
+  label: Resources
+  create: none
+  match: "*"
+- type: directory
   path: content
   label: Post
   create: documents
