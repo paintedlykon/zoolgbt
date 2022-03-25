@@ -67,6 +67,9 @@ params:
     URL: https://twitter.com/zoosexualfurs
 menu:
   main:
+  - name: Resources
+    URL: resources
+    weight: "5"
   - name: Collaborate
     URL: collaborate
     weight: "4"
