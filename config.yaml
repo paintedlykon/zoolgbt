@@ -78,4 +78,4 @@ menu:
     weight: "2"
   - name: Contact
     URL: contact
-    weight: "3"
+    weight: "5"
