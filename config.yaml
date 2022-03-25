@@ -69,7 +69,7 @@ menu:
   main:
   - name: Resources
     URL: resources
-    weight: "5"
+    weight: "3"
   - name: Collaborate
     URL: collaborate
     weight: "4"
