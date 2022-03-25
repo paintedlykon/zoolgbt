@@ -1,7 +1,7 @@
 ---
 baseURL: "/"
 languageCode: en-us
-title: zoo.lgbt
+title: zoo.lgbt - Zoosexuality Information, News & Articles!
 module:
   imports:
   - path: github.com/themefisher/parsa-hugo
@@ -42,12 +42,13 @@ params:
   logo: images/logo.png
   home: Home
   layout: "1"
-  description: zoolgbtdescription 
+  description: zoolgbtdescription
   preloader: true
   search: true
   author: zoo.lgbt
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in somewhere. Focusing across branding
+  bio: I’m a Freelance Interactive Art Director based in somewhere. Focusing across
+    branding
   mobile: "+90 000 333 22"
   email: hello@zoo.lgbt
   address: 6 rip carl Avenue CA 90733
@@ -58,14 +59,8 @@ params:
     enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
-  #- icon: ti-facebook
-  #  URL: "#"
   - icon: ti-twitter-alt
-    URL: "https://twitter.com/zoosexualfurs"
- # - icon: ti-linkedin
- #   URL: "#"
- # - icon: ti-github
- #   URL: "#"
+    URL: https://twitter.com/zoosexualfurs
 menu:
   main:
   - name: About
