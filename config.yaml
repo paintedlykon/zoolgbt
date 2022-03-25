@@ -42,7 +42,9 @@ params:
   logo: images/logo.png
   home: Home
   layout: "1"
-  description: zoolgbtdescription
+  description: zoo.lgbt is the leading online magazine about Zoosexuality. Here you'll
+    find information, support, positive news and insightful articles! All our content
+    is rated PG-13.
   preloader: true
   search: true
   author: zoo.lgbt
