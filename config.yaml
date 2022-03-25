@@ -49,14 +49,16 @@ params:
   search: true
   author: zoo.lgbt
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in somewhere. Focusing across
-    branding
-  mobile: "+90 000 333 22"
+  bio: I’m a Freelance Interazoo.lgbt is the leading online magazine about Zoosexuality.
+    Here you'll find information, support, positive news and insightful articles!
+    All our content is rated PG-13.ctive Art Director based in somewhere. Focusing
+    across branding
+  mobile: ''
   email: hello@zoo.lgbt
-  address: 6 rip carl Avenue CA 90733
+  address: "#"
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Creative Commons 2022 zoo.lgbt
+  copyright: Creative Commons (BY SA) 2022 - zoo.lgbt
   instafeed:
     enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
