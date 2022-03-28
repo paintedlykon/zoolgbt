@@ -4,7 +4,7 @@ date = 2022-03-27T21:00:00Z
 description = "5 subtle ways to show your zoopride in public"
 image = ""
 tags = []
-title = "5 subtle ways to show your zoopride in public!"
+title = "3 subtle ways to show your zoopride in public!"
 type = "post"
 
 +++
