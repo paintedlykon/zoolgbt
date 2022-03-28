@@ -8,7 +8,7 @@ title = "3 subtle ways to show your zoopride in public!"
 type = "post"
 
 +++
-As zoos we have lots of reasons to be proud of ourselves, our sexuality, our fellow zoo friends and allies and - of course - proud of our non-human companions. However, as much as we'd like to be able to go outside and wave an XXL sized zoopride flag across our town, city or neighborhood, the truth is that there's still a lot of work to do until zoosexuality receives the social respect and recognition that it deserves.
+As zoos we have lots of reasons to be proud of ourselves, our sexuality, our fellow zoo friends and allies and - of course - proud of our non-human companions. However, as much as we'd like to be able to go outside and wave an XXL sized zoopride flag across our town, city or neighborhood, the truth is that there's still a lot of work to do until zoosexuality receives the social respect and recognition that it deserves. 
 
 Sigh.
 
