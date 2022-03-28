@@ -2,7 +2,7 @@
 categories = []
 date = 2022-03-27T21:00:00Z
 description = "5 subtle ways to show your zoopride in public"
-image = ""
+image = "/images/beach-1.jpg"
 tags = []
 title = "3 subtle ways to show your zoopride in public!"
 type = "post"
