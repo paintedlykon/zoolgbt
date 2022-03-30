@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "10"
-paginate: "6"
+summaryLength: '10'
+paginate: '6'
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: "1"
+  layout: '1'
   description: zoo.lgbt is the leading online magazine about Zoosexuality. Here you'll
     find information, support, positive news and insightful articles! All our content
     is rated PG-13.
@@ -67,15 +67,9 @@ params:
     URL: https://twitter.com/zoosexualfurs
 menu:
   main:
-  - name: Resources
-    URL: resources
-    weight: "3"
-  - name: Collaborate
-    URL: collaborate
-    weight: "4"
-  - name: About
-    URL: about
-    weight: "2"
-  - name: Contact
-    URL: contact
-    weight: "5"
+  - URL: contact
+    name: Contact
+    weight: 4
+  - URL: about
+    name: About
+    weight: 1
