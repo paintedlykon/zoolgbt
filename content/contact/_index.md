@@ -1,7 +1,13 @@
 ---
-title: "Contact"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/contact.jpg"
+title: Contact
+date: 2019-05-14T14:46:10.000+06:00
+description: We love getting feedback, ideas, opinions and suggestions from our readers!
+  Here's how you can contact us.
+image: images/contact.jpg
+
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+We love getting feedback, ideas, opinions and suggestions from our readers!
+
+The easiest way to contact us, is by writing directly to our general email address: **hello@zoo.lgbt**
+
+If you want to submit an article, reach out with an idea or help out with graphics or editing, please have a look at our ["Collaborate"](https://zoo.lgbt/collaborate "Collaborate") section where we detail how to get in touch with us and become one of our collaborators!
