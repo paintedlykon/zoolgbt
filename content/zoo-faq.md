@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "Some of the basic questions about zoosexuality, conveniently answered in a FAQ"
-draft = true
 image = "/images/silhouette-3599881_1280.jpg"
 tags = []
 title = "Zoo FAQ"
