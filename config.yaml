@@ -67,9 +67,11 @@ params:
     URL: https://twitter.com/zoosexualfurs
 menu:
   main:
-  - URL: contact
-    name: Contact
-    weight: 4
+  - name: Zoo FAQ
+    weight: 5
   - URL: about
     name: About
     weight: 1
+  - URL: contact
+    name: Contact
+    weight: 4
